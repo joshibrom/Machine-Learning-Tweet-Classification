@@ -30,8 +30,8 @@ This notebook contains:
 
 ### Contributions to the project:
 
-Abigail Amiscosa: Finding the dataset, writing part of the week 1 report, writing the code, making part of the presentation slides, presentation, making part of the final paper, writing the ReadMe, and uploading the final code.
+Abigail Amiscosa: Finding the dataset, writing part of the week 1 report, writing the code, making part of the presentation slides, presentation, writing part of the final paper, writing the ReadMe, and uploading the final code.
 
 Joshua Ibrom:  Writing part of the  week 1 report, creation of the GitHub Repository, making part of the presentation slides, presentation, and formatting of the final paper.
 
-Julian Spindola: Writing part of the week 1 report, writing week 2-3 report, making part of the presentation slides, presentation, and part of the final paper.
+Julian Spindola: Writing part of the week 1 report, writing week 2-3 report, uploading code updates to the GitHub repository, making part of the presentation slides, presentation, and writing the bulk of the final paper.
