@@ -10,25 +10,28 @@ The dataset used is Disaster Tweets, uploaded by Viktor S. on Kaggle.
 
 ---
 
-## Getting Started  
+## How to Run the Project
 
-Follow the steps below to run this project on your local machine.
+To run the model, simply open and execute the following notebook:
 
-### Requirements  
-- Python 3.x installed
+**`Machine_Learning_Project_Final_Script.ipynb`**
 
-### How to Run  
-1. Download or clone this repository:
-   ```bash
-   git clone https://github.com/joshibrom/Machine-Learning-Tweet-Classification.git
+### Steps:
+1. Download or clone this repository.
+2. Open the notebook using **Google Colab** or **Jupyter Notebook**.
+3. Run all cells in order.
 
+This notebook contains:
+- Data loading
+- Preprocessing
+- Model training and evaluation
+- Comparison between CNN and transformer models
 
----
 
 ### Contributions to the project:
 
-Abigail Amiscosa: Finding the dataset, writing part of the week 1 report, writing the code, making part of the presentation slides, presentation, and part of the final paper.
+Abigail Amiscosa: Finding the dataset, writing part of the week 1 report, writing the code, making part of the presentation slides, presentation, making part of the final paper, writing the ReadMe, and uploading the final code.
 
-Joshua Ibrom:  Writing part of the  week 1 report, creation of GitHub Repository, making part of the presentation slides, presentation, and formatting of the final paper.
+Joshua Ibrom:  Writing part of the  week 1 report, creation of the GitHub Repository, making part of the presentation slides, presentation, and formatting of the final paper.
 
 Julian Spindola: Writing part of the week 1 report, writing week 2-3 report, making part of the presentation slides, presentation, and part of the final paper.
